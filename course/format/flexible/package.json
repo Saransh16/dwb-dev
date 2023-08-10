@@ -1,0 +1,24 @@
+{
+  "name": "format-flexible-tasks",
+  "version": "0.1.0",
+  "description": "Grunt tasks for Moodle Flexible Format.",
+  "main": "Gruntfile.js",
+  "author": {
+    "name": "Gareth J Barnard",
+    "url": "http://about.me/gjbarnard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/covuni/moodle-format_flexible.git"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/covuni/moodle-format_flexible/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-exec": "~0.4.6",
+    "grunt-contrib-jshint": "~1.0.0",
+    "grunt-contrib-uglify": "~1.0.1"
+  },
+  "license": "GPL-3.0"
+}

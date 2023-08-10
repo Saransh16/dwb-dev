@@ -1,0 +1,17 @@
+Ref: https://docs.moodle.org/dev/PHPUnit
+
+composer install --dev
+
+php admin/tool/phpunit/cli/init.php
+
+Linux:
+vendor/bin/phpunit format_flexible_courseformatlib_testcase course/format/flexible/tests/courseformatlib_test.php
+or
+Windows:
+vendor\bin\phpunit format_flexible_courseformatlib_testcase course/format/flexible/tests/courseformatlib_test.php
+
+Linux:
+vendor/bin/phpunit --group format_flexible
+or
+Windows:
+vendor\bin\phpunit --group format_flexible

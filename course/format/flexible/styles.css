@@ -1,0 +1,262 @@
+/* This file is part of Moodle - http://moodle.org/
+
+   Moodle is free software: you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.
+
+   Moodle is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with Moodle.  If not, see <http://www.gnu.org/licenses/>. */
+
+/**
+ * Flexible Format
+ *
+ * @package    format_flexible
+ * @version    See the value of '$plugin->version' in the version.php file.
+ * @copyright  &copy; 2019 G J Barnard in respect to modifications of standard topics format.
+ * @author     G J Barnard - {@link http://about.me/gjbarnard} and
+ *                           {@link http://moodle.org/user/profile.php?id=442195}
+ * @author     Based on code originally written by Paul Krix and Julian Ridden.
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later.
+ */
+
+.course-content ul.ftopics h3.sectionname {
+    background: transparent;
+    border: 0 none;
+    border-bottom: dashed 1px #000;
+    font-weight: normal;
+    padding: 0;
+    padding-bottom: 5px;
+}
+.course-content ul.ftopics-0 #section-0 {
+    background: transparent;
+    border: 0 none;
+}
+
+.course-content ul.ftopics-0 #section-0 .side {
+    width: 28px;
+}
+
+div#flexiblemiddle-column > ul {
+    list-style-type: none;
+    overflow: visible;
+}
+
+.course-content ul.ftopics {
+    margin: 0;
+}
+
+.course-content ul.ftopics li.section {
+    list-style: none;
+    margin: 5px 0 0 0;
+    padding:0;
+}
+
+.course-content ul.ftopics li.section .content {
+    margin:0 40px;
+}
+
+.course-content ul.ftopics li.section .side {
+    text-align: center;
+    width: 40px;
+}
+
+.course-content ul.ftopics li.section .left {
+    float: left;
+    padding: 0;
+}
+
+.course-content ul.ftopics li.section .right {
+    float: right;
+}
+
+/* @group Icons */
+#flexibleiconcontainer {
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+}
+#flexibleiconcontainer ul.flexibleicons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+}
+#flexibleiconcontainer ul.flexibleicons > li {
+    display: inline-block;
+    height: auto;
+    padding: 10px;
+    text-align: left;
+}
+.dir-rtl #flexibleiconcontainer ul.flexibleicons > li {
+    text-align: right;
+}
+#flexibleiconcontainer ul.flexibleicons.content_inside > li {
+    position: relative;
+}
+
+.course-content ul.flexibleicons img.new_activity {
+    position: absolute;
+    z-index: 1;
+}
+
+.course-content .flexibleicon_link .sectionsummaryiconcontainer {
+    float: right;
+    padding-left: 4px;
+}
+
+.course-content ul.flexibleicons > li .icon_content {
+    font-weight: bold;
+    height: 20px;
+    margin: 0;
+    overflow: hidden;
+    text-align: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.course-content ul.flexibleicons > li .icon_content.content_inside {
+    background-color: white;
+    box-sizing: content-box;
+    color: black;
+    height: auto;
+    margin: auto;
+    opacity: 0.8;
+    overflow-wrap: break-word;
+    padding: 10px;
+    position: absolute;
+    text-overflow: inherit;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+.course-content ul.flexibleicons > li .icon_content.content_inside.top {
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.course-content ul.flexibleicons > li .icon_content.content_inside.middle {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.course-content ul.flexibleicons > li .icon_content.content_inside.bottom {
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.course-content ul.flexibleicons > li .render_as {
+    background-color: white;
+    color: black;
+    opacity: 0.8;
+    padding: 4px 8px;
+    position: absolute;
+    right: 0;
+}
+
+.course-content ul.flexibleicons > li .render_as.top {
+    top: 0;
+}
+
+.course-content ul.flexibleicons > li .render_as.bottom {
+    bottom: 0;
+}
+
+.course-content ul.flexibleicons > li div.sctilegraphic,
+.course-content ul.flexibleicons > li div.scexpandablegraphic {
+    padding: 5px 5px 5px;
+}
+
+.course-content ul.flexibleicons > li .flexiblesectionwrapper {
+    border-style: solid;
+}
+
+.course-content ul.flexibleicons > li .image_holder {
+    /* Override Bootstrap V3 box sizing of .box-sizing(border-box); in scaffolding.less. */
+    -webkit-box-sizing: content-box;
+       -moz-box-sizing: content-box;
+            box-sizing: content-box;
+    overflow: visible;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.course-content ul.flexibleicons > li img {
+    margin-top: 0;
+    max-width: 100%;
+}
+
+.course-content ul.flexibleicons > li img.info {
+    height: 100%;
+    width: 100%;
+}
+
+.course-content li.flexible_section {
+    clear: both;
+}
+/* @end */
+
+/* Added by Justin 20160514 */
+.course-content ul.flexibleicons > li .flexiblesectionwrapper.inaccessible {
+    background-color: #999;
+    border-color: #aaa;
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray; /* IE 6-9 */
+    filter: alpha(opacity=70);
+    opacity: 0.7;
+}
+/* @end */
+
+.flexibleexpanded,
+.flexibleexpandabletoggle {
+    text-align: center;
+}
+
+.course-content .flexibleexpandablecollapsecontainer {
+    height: 0;
+    margin-top: 4px;
+    transition: height .5s ease-in-out;
+}
+
+.course-content .flexibleexpandablecollapsecontainer.collapse.show {
+    height: auto;
+}
+
+.course-content .flexibleexpandablesection {
+    line-height: inherit;
+}
+
+.course-content .flexibleexpandablesection ul.section {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.course-content .flexibleexpandablesection ul.section,
+.course-content .flexibleexpandablesection ul.ftopics,
+.course-content .flexibleexpandablesection ul.section .activity .activityinstance > a {
+    padding-left: 0;
+}
+
+.course-content .flexibleexpandablesection ul.ftopics li.section .content {
+    margin: 0;
+}
+
+.course-content .flexibleexpandablesection ul.section .activity .activityinstance > a {
+    text-indent: 0;
+}

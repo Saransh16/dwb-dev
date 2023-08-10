@@ -1,0 +1,10 @@
+{
+    "name": "covuni/moodle-format_flexible",
+    "type": "moodle-format",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "flexible"
+    }
+}
