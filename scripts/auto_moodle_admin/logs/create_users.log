@@ -1,0 +1,3178 @@
+[2023-06-19 15:17:33] User not created.
+[2023-06-19 15:17:33] The given username contains invalid characters in /private/var/www/work/moodle-local/moodle/user/lib.php:60
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-aarzoo_bhadara_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Aarzoo',
+  1 => 'Bhadara',
+  2 => 'pintookumar600@gmail.com',
+  3 => 'IN',
+  4 => 'aarzoo_bhadara_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-abhinanda_kr._gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Abhinanda',
+  1 => 'Kr.',
+  2 => 'raghuveer736@gmail.com',
+  3 => 'IN',
+  4 => 'abhinanda_kr._gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-aditi_kaushik_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Aditi',
+  1 => 'Kaushik',
+  2 => 'aditi@jp.com',
+  3 => 'IN',
+  4 => 'aditi_kaushik_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-akshit_giri_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Akshit',
+  1 => 'Giri',
+  2 => 'devendrapratapgiri@gmail.com',
+  3 => 'IN',
+  4 => 'akshit_giri_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-akshit_kaushik_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Akshit',
+  1 => 'Kaushik',
+  2 => 'ajeetasharma126@gmail.com',
+  3 => 'IN',
+  4 => 'akshit_kaushik_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-anannya_ray_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Anannya',
+  1 => 'Ray',
+  2 => 'amit_ray2514@yahoo.co.in',
+  3 => 'IN',
+  4 => 'anannya_ray_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-animesh_sharma_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Animesh',
+  1 => 'Sharma',
+  2 => 'jasvinderkumar607@gmail.com',
+  3 => 'IN',
+  4 => 'animesh_sharma_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-anirudh_pathak_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Anirudh',
+  1 => 'Pathak',
+  2 => 'rajeshrajpathak@yahoo.com',
+  3 => 'IN',
+  4 => 'anirudh_pathak_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-arpit_sharma_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Arpit',
+  1 => 'Sharma',
+  2 => 'Ajit@buidchem.in',
+  3 => 'IN',
+  4 => 'arpit_sharma_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-aryan_kumar_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Aryan',
+  1 => 'Kumar',
+  2 => 'aryan.jpis1@jpinternational.co.in',
+  3 => 'IN',
+  4 => 'aryan_kumar_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-atharva_thakur_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Atharva',
+  1 => 'Thakur',
+  2 => 'Vinkal10thakur@gmail.com',
+  3 => 'IN',
+  4 => 'atharva_thakur_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-avni_bhati_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Avni',
+  1 => 'Bhati',
+  2 => 'preeti.bhati041@gmail.com',
+  3 => 'IN',
+  4 => 'avni_bhati_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-ayra_khan_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Ayra',
+  1 => 'Khan',
+  2 => 'nehalamu76+1@gmail.com',
+  3 => 'IN',
+  4 => 'ayra_khan_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-ayush_kumar_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Ayush',
+  1 => 'Kumar',
+  2 => 'simple.sunil@gmail.com',
+  3 => 'IN',
+  4 => 'ayush_kumar_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-bebo_bhatia_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Bebo',
+  1 => 'Bhatia',
+  2 => 'csbhati.adv@gmail.com',
+  3 => 'IN',
+  4 => 'bebo_bhatia_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-bhavay_tyagi_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Bhavay',
+  1 => 'Tyagi',
+  2 => 'advpradeeptyagi784@gmail.com',
+  3 => 'IN',
+  4 => 'bhavay_tyagi_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-bhavik_mallik_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Bhavik',
+  1 => 'Mallik',
+  2 => '736d0tyu@duck.com',
+  3 => 'IN',
+  4 => 'bhavik_mallik_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-daksh_baisla_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Daksh',
+  1 => 'Baisla',
+  2 => 'kavitabaisla6+2@gmail.com',
+  3 => 'IN',
+  4 => 'daksh_baisla_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-dhaarani_pm_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Dhaarani',
+  1 => 'PM',
+  2 => 'MEGALAI.PM@GMAIL.COM',
+  3 => 'IN',
+  4 => 'dhaarani_pm_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-divyansh_bharti_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Divyansh',
+  1 => 'Bharti',
+  2 => 'umesh16973@gmail.com',
+  3 => 'IN',
+  4 => 'divyansh_bharti_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-hammad_ahmad_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Hammad',
+  1 => 'Ahmad',
+  2 => 'nehalamu76@gmail.com',
+  3 => 'IN',
+  4 => 'hammad_ahmad_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-hammad_khan_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Hammad',
+  1 => 'Khan',
+  2 => 'nehalamu76+2@gmail.com',
+  3 => 'IN',
+  4 => 'hammad_khan_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-himanshu_chaudhary_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Himanshu',
+  1 => 'Chaudhary',
+  2 => 'singh.shyam98@gmail.com',
+  3 => 'IN',
+  4 => 'himanshu_chaudhary_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-juliana_aishwarya_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Juliana',
+  1 => 'Aishwarya',
+  2 => 'babuphd2001@yahoo.co.in',
+  3 => 'IN',
+  4 => 'juliana_aishwarya_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-kanishka_singh_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Kanishka',
+  1 => 'Singh',
+  2 => 'yogender5562@gmail,com',
+  3 => 'IN',
+  4 => 'kanishka_singh_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-khusbu_bhati_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Khusbu',
+  1 => 'Bhati',
+  2 => 'rahulshahji2007@gmail.com',
+  3 => 'IN',
+  4 => 'khusbu_bhati_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-krish_kr._gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Krish',
+  1 => 'Kr.',
+  2 => 'nagendrasah78@gmail.com',
+  3 => 'IN',
+  4 => 'krish_kr._gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-lavish_baisla_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Lavish',
+  1 => 'Baisla',
+  2 => 'kavitabaisla6+1@gmail.com',
+  3 => 'IN',
+  4 => 'lavish_baisla_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-manav_jain_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Manav',
+  1 => 'Jain',
+  2 => 'jainharish325@gmail.com',
+  3 => 'IN',
+  4 => 'manav_jain_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-mohd_sakib_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Mohd',
+  1 => 'Sakib',
+  2 => 'jugnusiddique@gmail.com',
+  3 => 'IN',
+  4 => 'mohd_sakib_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-naitik_baisla_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Naitik',
+  1 => 'Baisla',
+  2 => 'kavitabaisla6@gmail.com',
+  3 => 'IN',
+  4 => 'naitik_baisla_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-nandani_singh_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Nandani',
+  1 => 'Singh',
+  2 => 'singhkus@gmail.com',
+  3 => 'IN',
+  4 => 'nandani_singh_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-natiteek_gupta_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Natiteek',
+  1 => 'Gupta',
+  2 => 'piyushadvocate@gmail.com',
+  3 => 'IN',
+  4 => 'natiteek_gupta_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-navneet_upadhyay_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Navneet',
+  1 => 'Upadhyay',
+  2 => 'navneet.upadhyay@jpinternational.co.in',
+  3 => 'IN',
+  4 => 'navneet_upadhyay_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-nidhi_kr._mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Nidhi',
+  1 => 'Kr.',
+  2 => 'monikasharan1979@gmail.com',
+  3 => 'IN',
+  4 => 'nidhi_kr._mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-nikhil_bhatia_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Nikhil',
+  1 => 'Bhatia',
+  2 => 'csbhati.adv+1@gmail.com',
+  3 => 'IN',
+  4 => 'nikhil_bhatia_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] The given username contains invalid characters in /private/var/www/work/moodle-local/moodle/user/lib.php:60
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-nishit_singh_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Nishit',
+  1 => 'Singh',
+  2 => 'nishit.rajsingh@jpinternational.co.in',
+  3 => 'IN',
+  4 => 'nishit_singh_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-palak_yadav_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Palak',
+  1 => 'Yadav',
+  2 => 'palak.yadav@jpinternational.co.in',
+  3 => 'IN',
+  4 => 'palak_yadav_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-priyanshi_bisht_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Priyanshi',
+  1 => 'Bisht',
+  2 => 'vijendra82bist@gmail.com',
+  3 => 'IN',
+  4 => 'priyanshi_bisht_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-priyanshi_pradhan_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Priyanshi',
+  1 => 'Pradhan',
+  2 => 'nareshtech079@gmail.com',
+  3 => 'IN',
+  4 => 'priyanshi_pradhan_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-rittika_roy_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Rittika',
+  1 => 'Roy',
+  2 => 'roy.mousumi556@gmail.com',
+  3 => 'IN',
+  4 => 'rittika_roy_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-riya_tyagi_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Riya',
+  1 => 'Tyagi',
+  2 => 'sandeep.tyagi@lge.com',
+  3 => 'IN',
+  4 => 'riya_tyagi_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-ruzayanah_ahmed_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Ruzayanah',
+  1 => 'Ahmed',
+  2 => 'ashishtiwari1976@gmail.com',
+  3 => 'IN',
+  4 => 'ruzayanah_ahmed_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-saisha_pradhan_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Saisha',
+  1 => 'Pradhan',
+  2 => 'psumantkumar070@gmail.com',
+  3 => 'IN',
+  4 => 'saisha_pradhan_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-sanskar_verma_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Sanskar',
+  1 => 'Verma',
+  2 => 'helmataverma2506@gmail.com',
+  3 => 'IN',
+  4 => 'sanskar_verma_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-sejal_purvaiya_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Sejal',
+  1 => 'Purvaiya',
+  2 => 'kailash_purvaiya@yahoo.com',
+  3 => 'IN',
+  4 => 'sejal_purvaiya_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-shaurya_pratap_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Shaurya',
+  1 => 'Pratap',
+  2 => 'chauhanricha2003@gmail.com',
+  3 => 'IN',
+  4 => 'shaurya_pratap_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-shivam_kumar_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Shivam',
+  1 => 'Kumar',
+  2 => 'anilbasista5170@gmail.com',
+  3 => 'IN',
+  4 => 'shivam_kumar_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-shradhanjali_padhy_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Shradhanjali',
+  1 => 'Padhy',
+  2 => 'harnarayanpadhy@rediffmail.com',
+  3 => 'IN',
+  4 => 'shradhanjali_padhy_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-siddhi_tyagi_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Siddhi',
+  1 => 'Tyagi',
+  2 => 'advpradeeptyagi784+1@gmail.com',
+  3 => 'IN',
+  4 => 'siddhi_tyagi_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-tasneem_siddqui_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Tasneem',
+  1 => 'Siddqui',
+  2 => 'pvz_a@yahoo.in',
+  3 => 'IN',
+  4 => 'tasneem_siddqui_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-vaibhav_verma_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Vaibhav',
+  1 => 'Verma',
+  2 => 'sanjeevk1947@gmail.com',
+  3 => 'IN',
+  4 => 'vaibhav_verma_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-vanika_goyal_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Vanika',
+  1 => 'Goyal',
+  2 => 'vanika@jp.com',
+  3 => 'IN',
+  4 => 'vanika_goyal_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-vansh_sharma_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Vansh',
+  1 => 'Sharma',
+  2 => 'drajaysharmadankaur@gmail.com',
+  3 => 'IN',
+  4 => 'vansh_sharma_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-venya_soni_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Venya',
+  1 => 'Soni',
+  2 => 'sony.hitesh@gmail.com',
+  3 => 'IN',
+  4 => 'venya_soni_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:12] User not created.
+[2023-06-21 13:51:12] Error writing to database (Duplicate entry '0-yashvi_bhati_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Yashvi',
+  1 => 'Bhati',
+  2 => 'pra_kr82@rediffmail.com',
+  3 => 'IN',
+  4 => 'yashvi_bhati_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335672,
+  17 => 1687335672,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:51:36] User not created.
+[2023-06-21 13:51:36] Error writing to database (Duplicate entry '0-aarzoo_bhadara_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Aarzoo',
+  1 => 'Bhadara',
+  2 => 'pintookumar600@gmail.com',
+  3 => 'IN',
+  4 => 'aarzoo_bhadara_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687335696,
+  17 => 1687335696,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-21 13:53:13] User not created.
+[2023-06-21 13:53:13] The given username contains invalid characters in /private/var/www/work/moodle-local/moodle/user/lib.php:60
+[2023-06-21 15:54:40] User not created.
+[2023-06-21 15:54:40] The given username contains invalid characters in /private/var/www/work/moodle-local/moodle/user/lib.php:60
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-aarzoo_bhadara_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Aarzoo',
+  1 => 'Bhadara',
+  2 => 'pintookumar600@gmail.com',
+  3 => 'IN',
+  4 => 'aarzoo_bhadara_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400186,
+  17 => 1687400186,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-abhinanda_kr._gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Abhinanda',
+  1 => 'Kr.',
+  2 => 'raghuveer736@gmail.com',
+  3 => 'IN',
+  4 => 'abhinanda_kr._gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-aditi_kaushik_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Aditi',
+  1 => 'Kaushik',
+  2 => 'aditi@jp.com',
+  3 => 'IN',
+  4 => 'aditi_kaushik_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-akshit_giri_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Akshit',
+  1 => 'Giri',
+  2 => 'devendrapratapgiri@gmail.com',
+  3 => 'IN',
+  4 => 'akshit_giri_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-akshit_kaushik_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Akshit',
+  1 => 'Kaushik',
+  2 => 'ajeetasharma126@gmail.com',
+  3 => 'IN',
+  4 => 'akshit_kaushik_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-anannya_ray_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Anannya',
+  1 => 'Ray',
+  2 => 'amit_ray2514@yahoo.co.in',
+  3 => 'IN',
+  4 => 'anannya_ray_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-animesh_sharma_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Animesh',
+  1 => 'Sharma',
+  2 => 'jasvinderkumar607@gmail.com',
+  3 => 'IN',
+  4 => 'animesh_sharma_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-anirudh_pathak_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Anirudh',
+  1 => 'Pathak',
+  2 => 'rajeshrajpathak@yahoo.com',
+  3 => 'IN',
+  4 => 'anirudh_pathak_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-arpit_sharma_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Arpit',
+  1 => 'Sharma',
+  2 => 'Ajit@buidchem.in',
+  3 => 'IN',
+  4 => 'arpit_sharma_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-aryan_kumar_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Aryan',
+  1 => 'Kumar',
+  2 => 'aryan.jpis1@jpinternational.co.in',
+  3 => 'IN',
+  4 => 'aryan_kumar_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-atharva_thakur_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Atharva',
+  1 => 'Thakur',
+  2 => 'Vinkal10thakur@gmail.com',
+  3 => 'IN',
+  4 => 'atharva_thakur_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-avni_bhati_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Avni',
+  1 => 'Bhati',
+  2 => 'preeti.bhati041@gmail.com',
+  3 => 'IN',
+  4 => 'avni_bhati_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-ayra_khan_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Ayra',
+  1 => 'Khan',
+  2 => 'nehalamu76+1@gmail.com',
+  3 => 'IN',
+  4 => 'ayra_khan_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-ayush_kumar_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Ayush',
+  1 => 'Kumar',
+  2 => 'simple.sunil@gmail.com',
+  3 => 'IN',
+  4 => 'ayush_kumar_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-bebo_bhatia_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Bebo',
+  1 => 'Bhatia',
+  2 => 'csbhati.adv@gmail.com',
+  3 => 'IN',
+  4 => 'bebo_bhatia_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-bhavay_tyagi_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Bhavay',
+  1 => 'Tyagi',
+  2 => 'advpradeeptyagi784@gmail.com',
+  3 => 'IN',
+  4 => 'bhavay_tyagi_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-bhavik_mallik_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Bhavik',
+  1 => 'Mallik',
+  2 => '736d0tyu@duck.com',
+  3 => 'IN',
+  4 => 'bhavik_mallik_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-daksh_baisla_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Daksh',
+  1 => 'Baisla',
+  2 => 'kavitabaisla6+2@gmail.com',
+  3 => 'IN',
+  4 => 'daksh_baisla_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-dhaarani_pm_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Dhaarani',
+  1 => 'PM',
+  2 => 'MEGALAI.PM@GMAIL.COM',
+  3 => 'IN',
+  4 => 'dhaarani_pm_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-divyansh_bharti_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Divyansh',
+  1 => 'Bharti',
+  2 => 'umesh16973@gmail.com',
+  3 => 'IN',
+  4 => 'divyansh_bharti_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-hammad_ahmad_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Hammad',
+  1 => 'Ahmad',
+  2 => 'nehalamu76@gmail.com',
+  3 => 'IN',
+  4 => 'hammad_ahmad_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-hammad_khan_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Hammad',
+  1 => 'Khan',
+  2 => 'nehalamu76+2@gmail.com',
+  3 => 'IN',
+  4 => 'hammad_khan_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-himanshu_chaudhary_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Himanshu',
+  1 => 'Chaudhary',
+  2 => 'singh.shyam98@gmail.com',
+  3 => 'IN',
+  4 => 'himanshu_chaudhary_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-juliana_aishwarya_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Juliana',
+  1 => 'Aishwarya',
+  2 => 'babuphd2001@yahoo.co.in',
+  3 => 'IN',
+  4 => 'juliana_aishwarya_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-kanishka_singh_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Kanishka',
+  1 => 'Singh',
+  2 => 'yogender5562@gmail,com',
+  3 => 'IN',
+  4 => 'kanishka_singh_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-khusbu_bhati_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Khusbu',
+  1 => 'Bhati',
+  2 => 'rahulshahji2007@gmail.com',
+  3 => 'IN',
+  4 => 'khusbu_bhati_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-krish_kr._gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Krish',
+  1 => 'Kr.',
+  2 => 'nagendrasah78@gmail.com',
+  3 => 'IN',
+  4 => 'krish_kr._gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-lavish_baisla_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Lavish',
+  1 => 'Baisla',
+  2 => 'kavitabaisla6+1@gmail.com',
+  3 => 'IN',
+  4 => 'lavish_baisla_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-manav_jain_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Manav',
+  1 => 'Jain',
+  2 => 'jainharish325@gmail.com',
+  3 => 'IN',
+  4 => 'manav_jain_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-mohd_sakib_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Mohd',
+  1 => 'Sakib',
+  2 => 'jugnusiddique@gmail.com',
+  3 => 'IN',
+  4 => 'mohd_sakib_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-naitik_baisla_gems' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Naitik',
+  1 => 'Baisla',
+  2 => 'kavitabaisla6@gmail.com',
+  3 => 'IN',
+  4 => 'naitik_baisla_gems',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-nandani_singh_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Nandani',
+  1 => 'Singh',
+  2 => 'singhkus@gmail.com',
+  3 => 'IN',
+  4 => 'nandani_singh_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-natiteek_gupta_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Natiteek',
+  1 => 'Gupta',
+  2 => 'piyushadvocate@gmail.com',
+  3 => 'IN',
+  4 => 'natiteek_gupta_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-navneet_upadhyay_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Navneet',
+  1 => 'Upadhyay',
+  2 => 'navneet.upadhyay@jpinternational.co.in',
+  3 => 'IN',
+  4 => 'navneet_upadhyay_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-nidhi_kr._mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Nidhi',
+  1 => 'Kr.',
+  2 => 'monikasharan1979@gmail.com',
+  3 => 'IN',
+  4 => 'nidhi_kr._mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-nikhil_bhatia_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Nikhil',
+  1 => 'Bhatia',
+  2 => 'csbhati.adv+1@gmail.com',
+  3 => 'IN',
+  4 => 'nikhil_bhatia_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] The given username contains invalid characters in /private/var/www/work/moodle-local/moodle/user/lib.php:60
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-nishit_singh_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Nishit',
+  1 => 'Singh',
+  2 => 'nishit.rajsingh@jpinternational.co.in',
+  3 => 'IN',
+  4 => 'nishit_singh_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-palak_yadav_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Palak',
+  1 => 'Yadav',
+  2 => 'palak.yadav@jpinternational.co.in',
+  3 => 'IN',
+  4 => 'palak_yadav_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-priyanshi_bisht_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Priyanshi',
+  1 => 'Bisht',
+  2 => 'vijendra82bist@gmail.com',
+  3 => 'IN',
+  4 => 'priyanshi_bisht_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-priyanshi_pradhan_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Priyanshi',
+  1 => 'Pradhan',
+  2 => 'nareshtech079@gmail.com',
+  3 => 'IN',
+  4 => 'priyanshi_pradhan_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-rittika_roy_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Rittika',
+  1 => 'Roy',
+  2 => 'roy.mousumi556@gmail.com',
+  3 => 'IN',
+  4 => 'rittika_roy_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-riya_tyagi_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Riya',
+  1 => 'Tyagi',
+  2 => 'sandeep.tyagi@lge.com',
+  3 => 'IN',
+  4 => 'riya_tyagi_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-ruzayanah_ahmed_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Ruzayanah',
+  1 => 'Ahmed',
+  2 => 'ashishtiwari1976@gmail.com',
+  3 => 'IN',
+  4 => 'ruzayanah_ahmed_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-saisha_pradhan_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Saisha',
+  1 => 'Pradhan',
+  2 => 'psumantkumar070@gmail.com',
+  3 => 'IN',
+  4 => 'saisha_pradhan_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-sanskar_verma_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Sanskar',
+  1 => 'Verma',
+  2 => 'helmataverma2506@gmail.com',
+  3 => 'IN',
+  4 => 'sanskar_verma_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-sejal_purvaiya_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Sejal',
+  1 => 'Purvaiya',
+  2 => 'kailash_purvaiya@yahoo.com',
+  3 => 'IN',
+  4 => 'sejal_purvaiya_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-shaurya_pratap_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Shaurya',
+  1 => 'Pratap',
+  2 => 'chauhanricha2003@gmail.com',
+  3 => 'IN',
+  4 => 'shaurya_pratap_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-shivam_kumar_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Shivam',
+  1 => 'Kumar',
+  2 => 'anilbasista5170@gmail.com',
+  3 => 'IN',
+  4 => 'shivam_kumar_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-shradhanjali_padhy_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Shradhanjali',
+  1 => 'Padhy',
+  2 => 'harnarayanpadhy@rediffmail.com',
+  3 => 'IN',
+  4 => 'shradhanjali_padhy_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-siddhi_tyagi_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Siddhi',
+  1 => 'Tyagi',
+  2 => 'advpradeeptyagi784+1@gmail.com',
+  3 => 'IN',
+  4 => 'siddhi_tyagi_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-tasneem_siddqui_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Tasneem',
+  1 => 'Siddqui',
+  2 => 'pvz_a@yahoo.in',
+  3 => 'IN',
+  4 => 'tasneem_siddqui_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-vaibhav_verma_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Vaibhav',
+  1 => 'Verma',
+  2 => 'sanjeevk1947@gmail.com',
+  3 => 'IN',
+  4 => 'vaibhav_verma_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-vanika_goyal_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Vanika',
+  1 => 'Goyal',
+  2 => 'vanika@jp.com',
+  3 => 'IN',
+  4 => 'vanika_goyal_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-vansh_sharma_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Vansh',
+  1 => 'Sharma',
+  2 => 'drajaysharmadankaur@gmail.com',
+  3 => 'IN',
+  4 => 'vansh_sharma_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-venya_soni_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Venya',
+  1 => 'Soni',
+  2 => 'sony.hitesh@gmail.com',
+  3 => 'IN',
+  4 => 'venya_soni_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-22 07:46:27] User not created.
+[2023-06-22 07:46:27] Error writing to database (Duplicate entry '0-yashvi_bhati_mris_sec_14' for key 'mdl_user.mdl_user_mneuse_uix'
+INSERT INTO mdl_user (firstname,lastname,email,country,username,auth,confirmed,suspended,calendartype,maildisplay,mailformat,maildigest,autosubscribe,trackforums,lang,city,timecreated,timemodified) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+-- line 1501 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+-- line 122 of /user/lib.php: call to mysqli_native_moodle_database->insert_record()
+-- line 50 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to user_create_user()
+-- line 22 of /scripts/auto_moodle_admin/classes/user/user_creator.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->save_user()
+-- line 22 of /scripts/auto_moodle_admin/cli/create_users.php: call to scripts\auto_moodle_admin\classes\user\UserCreator->create_user()
+[array (
+  0 => 'Yashvi',
+  1 => 'Bhati',
+  2 => 'pra_kr82@rediffmail.com',
+  3 => 'IN',
+  4 => 'yashvi_bhati_mris_sec_14',
+  5 => 'manual',
+  6 => 1,
+  7 => 0,
+  8 => 'gregorian',
+  9 => '2',
+  10 => '1',
+  11 => '0',
+  12 => '1',
+  13 => '0',
+  14 => 'en',
+  15 => '',
+  16 => 1687400187,
+  17 => 1687400187,
+)]) in /private/var/www/work/moodle-local/moodle/lib/dml/moodle_database.php:497
+[2023-06-24 07:41:12] User not created.
+[2023-06-24 07:41:12] The given username contains invalid characters in /private/var/www/work/moodle-local/moodle/user/lib.php:60
+[2023-07-13 12:19:14] User not created.
+[2023-07-13 12:19:14] The given username contains invalid characters in /private/var/www/work/moodle-local/moodle/user/lib.php:60
