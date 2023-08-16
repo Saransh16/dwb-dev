@@ -9,18 +9,19 @@ require_once(CLASS_PATH . 'csv/csv_reader.php');
 require_once(LOG_PROCESSOR_PATH . 'log_processor.php');
 
 $csvFile = $CFG->dirroot . '/schools.csv';
-$expectedHeaders = ['school_name'];
+$expectedHeaders = ['school_code','school_short_name','grades'];
+$logFile = 'create_courses.log';
 
-$logProcessor = new \scripts\auto_moodle_admin\log\LogProcessor('create_courses.log');
+$logProcessor = new \scripts\auto_moodle_admin\log\LogProcessor($logFile);
 $courseCreator = new \scripts\auto_moodle_admin\classes\course\CourseCreator($DB, $logProcessor);
 $csvReader = new \scripts\auto_moodle_admin\classes\csv\CsvReader();
 
 $csvData = $csvReader->readCsvFile($csvFile, $expectedHeaders);
 
-$schoolNames = [];
+echo "Logs for this script can be found at {$logFile}\n";
 
-foreach ($csvData as $data) {
-    array_push($schoolNames, $data['school_name']);
-}
+echo "Process started\n";
 
-$courseCreator->createCoursesForCategories($schoolNames);
+$courseCreator->createCoursesForCategories($csvData);
+
+echo "Process finished\n";

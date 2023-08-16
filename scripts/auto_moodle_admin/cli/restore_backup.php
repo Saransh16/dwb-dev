@@ -13,14 +13,16 @@ list($options, $unrecognized) = cli_get_params([
     'showdebugging' => false,
     'help' => false,
     'fullname' => '',
-    'shortname' => ''
+    'shortname' => '',
+    'idnumber' => ''
 ], [
     'f' => 'file',
     'c' => 'categoryid',
     's' => 'showdebugging',
     'h' => 'help',
     'fn' => 'fullname',
-    'sn' => 'shortname'
+    'sn' => 'shortname',
+    'idnum' => 'idnumber'
 ]);
 
 if ($unrecognized) {
@@ -52,11 +54,9 @@ cli_heading(get_string('preprocessingbackupfile'));
 
 try {
 
-    // list($fullname, $shortname) = restore_dbops::calculate_course_names(0, get_string('restoringcourse', 'backup'),
-    //     get_string('restoringcourseshortname', 'backup'));
-
     $fullname = $options['fullname'];
     $shortname = $options['shortname'];
+    $idnumber = $options['idnumber'];
 
     $courseid = restore_dbops::create_new_course($fullname, $shortname, $category->id);
 
@@ -74,6 +74,7 @@ try {
     $course = $DB->get_record('course', ['id' => $courseid], 'id');
     $course->fullname = $fullname;
     $course->shortname = $shortname;
+    $course->idnumber = $idnumber;
     $DB->update_record('course', $course);    
 
 } catch (Exception $e) {
