@@ -28,6 +28,7 @@ class CategoryCreator {
         $category = new stdClass();
         $category->name = $name;
         $category->parent = $parent; 
+        $category->idnumber = $idnumber;
 
         try {
             $categoryId = $this->DB->insert_record('course_categories', $category, true);

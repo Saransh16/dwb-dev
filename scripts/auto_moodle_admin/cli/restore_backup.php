@@ -72,7 +72,7 @@ try {
 
     // Update the new course name
     $course = $DB->get_record('course', ['id' => $courseid], 'id');
-    $course->fullname = $fullname;
+    $course->fullname = str_replace("_", " ", $fullname);
     $course->shortname = $shortname;
     $course->idnumber = $idnumber;
     $DB->update_record('course', $course);    

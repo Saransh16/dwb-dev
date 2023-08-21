@@ -2,7 +2,7 @@
 
 define('CLI_SCRIPT', true);
 
-require_once('../../../config.php');
+require_once('config.php');
 
 require_once($CFG->dirroot . '/scripts/auto_moodle_admin/params_config.php');
 require_once(CLASS_PATH . 'category/category_creator.php');

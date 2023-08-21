@@ -3,6 +3,7 @@
 define('CLI_SCRIPT', true);
 
 require_once('config.php');
+
 require_once($CFG->dirroot . '/scripts/auto_moodle_admin/params_config.php');
 require_once(CLASS_PATH . 'course/course_creator.php');
 require_once(CLASS_PATH . 'csv/csv_reader.php');
